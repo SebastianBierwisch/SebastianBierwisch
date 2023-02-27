@@ -8,6 +8,7 @@ Sebastian Bierwisch
 
 M +49 1515 8926 786
 sebastian.bierwisch@amplimind.io
+
 amplimind.io
 
 amplimind GmbH > Zeppelin Str. 1 > 85399 Hallbergmoos > Germany
