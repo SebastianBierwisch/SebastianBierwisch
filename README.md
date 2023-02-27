@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SebastianBierwisch
-- 👀 I’m interested in Technoligie
-- 🌱 My position is Proxy Product Owner - Team Plattform
-- 💞️ I’m looking to collaborate on all Platform topics
+- 👀 I’m interested in Technoligy
+- 🌱 My position is TechLead @amlimind
+- 💞️ I’m looking to collaborate on all overachring technical topics
 - 📫 How to reach me 
 
 Sebastian Bierwisch
