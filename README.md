@@ -11,7 +11,7 @@ sebastian.bierwisch@amplimind.io
 
 amplimind.io
 
-amplimind GmbH > Zeppelin Str. 1 > 85399 Hallbergmoos > Germany
+amplimind GmbH > LabCampus > Lab 48 > 85356 München-Flughafen > Germany! [image](https://github.com/user-attachments/assets/1a4bb98e-3de1-43f4-889a-72330c38f39c)
 powered by Audi and Lufthansa Industry Solutions 
 
 <!---
